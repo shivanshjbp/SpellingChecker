@@ -1,0 +1,5 @@
+Use following commands to install Textblob : 
+1. pip install -U textblob
+2.python -m textblob.download_corpora
+
+For more info visit : https://pypi.org/project/textblob/
